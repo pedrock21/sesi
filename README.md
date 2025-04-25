@@ -1,1 +1,1 @@
-clear# sesi
+clear# sesi 
